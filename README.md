@@ -1,4 +1,4 @@
-# Module4_Crrelation_Matrix
+# Module4_Correlation_Matrix
 Практика по 4 модулю Курса статистики Skillbox Корреляция
 
 Задача 2
